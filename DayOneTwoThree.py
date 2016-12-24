@@ -79,7 +79,7 @@ while b < 10:	#While loop
 	a, b = b, a+b
 	
 
-	dfbjdjfbh
+
 #in C and python 0 is false, everything else is true
 
 a, b = 0, 1		#Defining variables a and b
@@ -90,3 +90,5 @@ while b < 10:	#While loop
 
 print("hello world")
 print("dfvhhkdfv")
+
+print ("will this work")
