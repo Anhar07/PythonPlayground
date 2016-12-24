@@ -11,3 +11,4 @@ while b < 10:	#While loop, the indention shows what is insdife of the loop
 
 #in C and python 0 is false, everything else is true
 
+print ("work")
