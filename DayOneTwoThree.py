@@ -92,3 +92,13 @@ print("hello world")
 print("dfvhhkdfv")
 
 print ("will this work")
+
+#Something else
+i = 4334434
+print("the value of i is", i)
+
+#ANother
+a, b = 0, 1
+while b < 1000:
+	print(b, end=",") #end=","  let all num be on same line
+	a, b = b, a+b
