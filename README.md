@@ -8,15 +8,19 @@ Each Day I'll write about my thoughts, challenges and etc. It's the same as Dail
 My goal is to code everyday :). 
 
 
-Day 2 I finally learned how to use the basics of Github on cmd, Im really happy by this hehe
+DAY 2
+
+ I finally learned how to use the basics of Github on cmd, Im really happy by this hehe
 
 
 DAY 3
+
 Its really fun solving problems on my own.
 I had another problem where I couldnt build input(),
 then realized sublime text did not support it. So I installed the SublimeREPL, it works really well :D!! 
 
 DAY 4
+
 Hahah I did something dumb and accidentally erased
 the PATH for git. In the end I reinstalled git 
 to reset my path.
