@@ -22,5 +22,6 @@ else:
 #For Statements
 #MEasuring strings
 words = ['cat', 'window', 'defenestrate']
-for i in words:
-	print(i, len(i))
+for i in words:		#it doesnt matter what letter you use as long as it is consistent
+	print(i, len(i)) #i = words. so it prints cat 3, pretty cool
+#another for statement
