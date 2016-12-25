@@ -51,8 +51,22 @@ print ("BR E SA K  O F F")
 for i in range(-10, -100, -30): #i dont understand why theres 3 but i'm feeling lazy spppp yeah
 	print(i)
 
+#Range + Len
 
+a = ['Mary', 'had', 'a', 'little', 'lamb'] #regular list
+for i in range(len(a)): #whre letter is placed
+	print(i, a[i]) #print number + each word
+#My own example
+me = ['lazy', 'nerd', 'fun', 'lame']
+for x in range(len(me)): #where letter placed, 0, 1, 2,3 
+	print(x, me[x]) #i is where letter placed + actuall word 
+	#me[i] just listting the whole list
+#Another example 
+you = ['wow', 'nice', 'coooool']
+for i in range(len(you)):
+	print(i, you[i])
+#annother exaample
+print(range(10)) # i dont uderstad this outcome
 
-
-
+print(list(range(5))) #priints a list 0 to 4
 
