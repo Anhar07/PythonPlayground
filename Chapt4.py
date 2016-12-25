@@ -12,3 +12,15 @@ elif x == 1:
 	print('single')
 else:
 	print('more')
+#practicing if statements more
+x = str(input("What is your name? "))
+if x == 'jack':
+	print("short name")
+else:
+	print("cool")
+
+#For Statements
+#MEasuring strings
+words = ['cat', 'window', 'defenestrate']
+for i in words:
+	print(i, len(i))
