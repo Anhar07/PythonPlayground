@@ -29,10 +29,19 @@ print("O")
 for num in range(2, 10):
 	if num % 2 == 0:
 		print('Found an even number', num)
-		continue
-	print('Found an odd number', num)
+		continue #if num % 2 does not equal 0, u contiue
+		#continue = go to next command
+		#next statement runs then
+	print('Found an odd number', num) #indenting is important
+	#indent bc print belonds to "for" not "if"
 
+#4.5 Pass Statements
 
+while True:
+	pass #it does nothing 
 
+class MyEmptyClass: #used for minimal class
+	pass
 
-
+def initlog(*args): 
+	pass # i dont understand the point of this 

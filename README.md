@@ -27,6 +27,8 @@ to reset my path.
 
 While learning "for loop" and using "for i in range()"
 I seriously wish someone told me earlier "i" can be any letter 
+
+I don't understand what "minimal class" means
 as long as your consistent. It makes it less complicated to understand.
 Haha, self discovery is so much better. I'm having fun hehe.
 
