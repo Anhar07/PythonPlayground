@@ -12,7 +12,7 @@ DAY 2
 
  I finally learned how to use the basics of Github on cmd, Im really happy by this hehe
 
-
+c
 DAY 3
 
 Its really fun solving problems on my own.
