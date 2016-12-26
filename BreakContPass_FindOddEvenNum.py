@@ -35,6 +35,17 @@ for num in range(2, 10):
 	print('Found an odd number', num) #indenting is important
 	#indent bc print belonds to "for" not "if"
 
+#Another practice 
+for i in range(0, 50):
+	for k in range(2, i):
+		if i % k == 0:
+			print(i, "is equal to", k, '*', i//k)
+			break
+		else:
+			print(i, 'is a prime number')
+			break			
+
+
 #4.5 Pass Statements
 
 while True:

@@ -1,10 +1,11 @@
 #4.6 Defining Functions 
 #Arbitrary : Based o random choice
 
-def fib(n):
-	a, b = 0, 1 
-	while a < n:
-		print(a, end='')
+def fib(n): #defining a function 
+#Fibonacci series is starting
+	a, b = 0, 1  #defining variables
+	while a < n: #while a is smaller than fib(n)
+		print(a, end='') 
 		a, b = b, a+b
-	print()
-print(fib(2000))
+	print(9)
+print(fib(100))
