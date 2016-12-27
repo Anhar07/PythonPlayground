@@ -33,5 +33,15 @@ as long as your consistent. It makes it less complicated to understand.
 Haha, self discovery is so much better. I'm having fun hehe.
 
 
+DAY 5
 
+I've been stuck on the same problem since yesterday. I ussually build my Python code on Sublime Text 3, but for some reason it is giving me 
+
+"'py' is not recognized as an internal or external command,
+operable program or batch file.
+[Finished in 0.2s with exit code 1]."
+
+It was working perfectly, I shut down my laptop then turned it back on. Now it won't work. AHHhhh I have until friday to fix this. Omygosh, please be fixed by today.
+
+"
 
