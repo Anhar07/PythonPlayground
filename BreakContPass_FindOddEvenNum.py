@@ -35,7 +35,7 @@ for num in range(2, 10):
 	print('Found an odd number', num) #indenting is important
 	#indent bc print belonds to "for" not "if"
 
-#Another practice ana
+#Another pracotice ana
 for i in range(0, 50):
 	for k in range(2, i):
 		if i % k == 0:
